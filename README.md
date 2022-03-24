@@ -1,11 +1,12 @@
 - 👋 Hola, Soy Glory Leon
 - 👀 Me Interesa  La Tecnologia 
 - 🌱 Actualmente Estoy Aprendiendo En Cuanto a la Programacion y Paginas webs 
-- 💞️ Estoy Buscando Colabporar En El Aprendizaje de Paginas Webs
+- 💞️ Estoy Buscando Colaborar En El Aprendizaje de Paginas Webs
 - 📫 Puedes Contactarme  
 - Correo: gloryleong@gmail.com
 - Facebook; Glory Leon Gutierrez 
 - Instagram: Gloryleon_27
+- Telefono: 04121537568
 
 Me Gusta Aprender Y Capacitarme Cada Dia 
 
