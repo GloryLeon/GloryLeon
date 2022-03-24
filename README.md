@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @GloryLeon
-- 👀 I’m interested in ... 
-- La Tecnologia 
-- 🌱 I’m currently learning ... 
-- En Cuanto a la Programacio y Paginas webs 
-- 💞️ I’m looking to collaborate on ... 
-- Aprendizaje Paginas Webs
-- 📫 How to reach me ... 
+- 👋 Hola, Soy Glory Leon
+- 👀 Me Interesa  La Tecnologia 
+- 🌱 Actualmente Estoy Aprendiendo En Cuanto a la Programacion y Paginas webs 
+- 💞️ Estoy Buscando Colabporar En El Aprendizaje de Paginas Webs
+- 📫 Puedes Contactarme  
 - Correo: gloryleong@gmail.com
 - Facebook; Glory Leon Gutierrez 
 - Instagram: Gloryleon_27
